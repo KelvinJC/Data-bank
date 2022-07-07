@@ -1,5 +1,8 @@
 # Data-bank
 
+### A case study in business analytics.
+
+
 ### Transactions analysis
 
 * Unique count and total amount for each transaction type?
