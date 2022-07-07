@@ -9,3 +9,5 @@
 * For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 
 ![](images/data_bank_pic.jpg)
+
+![](images/data_bank_insights.jpg)
