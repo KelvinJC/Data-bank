@@ -15,7 +15,7 @@
 ### Forecasting
 * If the annual interest rate is set at 6% and the Data Bank team wants to reward its customers by increasing their data allocation based off the interest calculated on a daily basis at the end of each day, how much data would be required for this option on a monthly basis?
 
-## Reporting
+## Reports
 * Using the outputs generated from the customer node questions, generate a few headline insights which Data Bank might use to market it’s world-leading security features to potential investors and customers.
 
 ![](images/data_bank_insights.jpg)
