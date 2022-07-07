@@ -11,3 +11,5 @@
 ![](images/data_bank_pic.jpg)
 
 ![](images/data_bank_insights.jpg)
+
+![](images/data_allocation.jpg)
