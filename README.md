@@ -12,7 +12,14 @@
 * Percentage of customers who increase their closing balance by more than 5%?
 * For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 
+## Forecasting
+* If the annual interest rate is set at 6% and the Data Bank team wants to reward its customers by increasing their data allocation based off the interest calculated on a daily basis at the end of each day, how much data would be required for this option on a monthly basis?
+
+## Reporting
+Using the outputs generated from the customer node questions, generate a few headline insights which Data Bank might use to market it’s world-leading security features to potential investors and customers.
 
 ![](images/data_bank_insights.jpg)
 
+
+With the transaction analysis - prepare a 1 page presentation slide which contains all the relevant information about the various options for the data provisioning so the Data Bank management team can make an informed decision.
 ![](images/data_allocation.jpg)
