@@ -23,3 +23,12 @@
 
 * With the transaction analysis - prepare a 1 page presentation slide which contains all the relevant information about the various options for the data provisioning so the Data Bank management team can make an informed decision.
 ![](images/data_allocation.jpg)
+
+
+
+
+### Tools used:
+* PostgreSQL
+* Excel
+* MS Power Point
+
