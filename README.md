@@ -1,7 +1,7 @@
 # Data-bank
 
 ### A case study in business analytics.
-
+![](images/data_bank_pic.jpg)
 ### Some of the questions I investigated include:
 
 ### Transactions analysis
@@ -12,7 +12,6 @@
 * Percentage of customers who increase their closing balance by more than 5%?
 * For each month - how many Data Bank customers make more than 1 deposit and either 1 purchase or 1 withdrawal in a single month?
 
-![](images/data_bank_pic.jpg)
 
 ![](images/data_bank_insights.jpg)
 
