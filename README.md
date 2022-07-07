@@ -2,6 +2,7 @@
 
 ### A case study in business analytics.
 
+### Some of the questions I investigated include:
 
 ### Transactions analysis
 
