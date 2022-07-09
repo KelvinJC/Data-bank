@@ -22,7 +22,7 @@
 ![](images/data_bank_insights.jpg)
 
 
-* With the results of the transaction analysis - I prepared a 1 page presentation slide which contains all the relevant information about the various options for the data provisioning so the Data Bank management team can make an informed decision.
+* With the results of the transaction analysis - I prepared a 1 page presentation slide which contains all the relevant information about the 3 options for data provisioning so the Data Bank management team can make an informed decision.
 <br>
 
 ![](images/data_allocation.jpg)
